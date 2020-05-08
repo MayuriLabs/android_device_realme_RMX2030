@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "wulan17/android_kernel_realme_RMX2030",
+    "target_path": "kernel/realme/RMX2030",
+    "branch": "dev/pie"
+  }
+]
