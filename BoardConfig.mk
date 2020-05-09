@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# Inherit from realme sdm665-common
+-include device/realme/sdm665-common/BoardConfigCommon.mk
+
+
 DEVICE_PATH := device/realme/RMX2030
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
